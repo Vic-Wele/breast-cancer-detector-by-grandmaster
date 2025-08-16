@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Data/outputs
+models/*.joblib
+models/*.png
+predictions.csv
+
+# Streamlit
+.streamlit/
