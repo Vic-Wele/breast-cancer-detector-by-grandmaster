@@ -15,5 +15,8 @@ A simple machine learning app to predict breast cancer (malignant vs benign) usi
 - F1: 0.96
 
 ## Deployment
+- Live demo: [Opein in Streamlit](https://breast-cancer-detector-by-grandmaster.streamlit.app/)
+  
 - Live demo: [Open in Streamlit](https://share.streamlit.io/Vic-Wele/breast-cancer-detector-by-grandmaster/main/app.py)
+
 
